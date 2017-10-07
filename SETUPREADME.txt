@@ -8,4 +8,4 @@ NOTE: if you wish to change the commannd prefix, edit this line in butter.js
 
 line 2 : const client = new commando.Client({commandPrefix: '$'});
 
-NOTE 2: Make sure to put it in a folder you reconize as butter. the start.bat works on windows only. you can run it from linux or mac, the glory of NodeJs. for linux and mac its Node --harmony butter.js
+NOTE 2: Make sure to put it in a folder you reconize as butter. the start.bat works on windows only. you can run it from linux or mac, the glory of NodeJs. for linux and mac its Node --harmony butter.js 
